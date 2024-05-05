@@ -15,4 +15,10 @@ members = [
     "rust/clock",
     "rust/anagram",
     "rust/space-age",
+    "rust/sublist",
+    "rust/minesweeper",
+    "rust/luhn",
+    "rust/armstrong-numbers",
+    "rust/beer-song",
+    "rust/difference-of-squares",
 ]
