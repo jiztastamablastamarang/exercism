@@ -1,0 +1,8 @@
+[package]
+edition = "2021"
+name = "bob"
+version = "1.6.0"
+
+[dependencies]
+wordnet = "0.1.2"
+lingua = { version = "1.6.2", default-features = false, features = ["english"] }
