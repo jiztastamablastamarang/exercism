@@ -31,4 +31,5 @@ members = [
     "rust/bob",
     "rust/high-scores",
     "rust/matching-brackets",
+    "rust/collatz-conjecture",
 ]
