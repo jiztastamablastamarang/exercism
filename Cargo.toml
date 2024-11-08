@@ -9,28 +9,4 @@ edition = "2021"
 
 
 [workspace]
-members = [
-    "rust/reverse-string",
-    "rust/gigasecond",
-    "rust/clock",
-    "rust/anagram",
-    "rust/space-age",
-    "rust/sublist",
-    "rust/minesweeper",
-    "rust/luhn",
-    "rust/armstrong-numbers",
-    "rust/beer-song",
-    "rust/difference-of-squares",
-    "rust/grains",
-    "rust/leap",
-    "rust/nth-prime",
-    "rust/prime-factors",
-    "rust/proverb",
-    "rust/raindrops",
-    "rust/sum-of-multiples",
-    "rust/bob",
-    "rust/high-scores",
-    "rust/matching-brackets",
-    "rust/collatz-conjecture",
-    "rust/diffie-hellman",
-]
+members = ['rust/*']
